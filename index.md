@@ -1,8 +1,9 @@
  <iframe width="640" height="360"
 src="https://www.youtube.com/embed/8-J4JD3zr04">
 </iframe> 
-# ~~~~~~~~~~~~~~~~~~~~~~
+
 # Hello!
+## My name is Colby Reed, and I'm an audio engineer with a focus in sound design and composition.
 
 ```markdown
 Syntax highlighted code block
