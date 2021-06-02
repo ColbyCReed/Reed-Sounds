@@ -1,4 +1,4 @@
- <iframe width="854" height="480"
+ <iframe width="640" height="360"
 src="https://www.youtube.com/embed/8-J4JD3zr04">
 </iframe> 
 
