@@ -8,7 +8,7 @@ src="https://www.youtube.com/embed/8-J4JD3zr04">
 ### Throughout my time of learning and gaining experience, I’ve come to understand the importance of the role that sound plays in telling a story. It can help you to better understand a character, or give weight to your actions. It can give you a sense of scale, or a sense of age. It can pull back the curtain, or completely mystify you. From the bellowing roars of  colossal creatures that could move mountains, to the smallest, most insignificant twig snapping beneath one’s shoe; every detail matters, and I strive to present that in my work.
 ## If you're creating a world, **I want to make it breathe**.
 
-#**Recent Sound Design**
+# **Recent Sound Design**
 
  <iframe width="640" height="360"
 src="https://www.youtube.com/embed/JMwDuuNUwik">
@@ -28,7 +28,7 @@ src="https://www.youtube.com/embed/FHcZ81NRLgc">
 src="https://www.youtube.com/embed/GDxtsuIlic8">
 </iframe>
 
-#**Recent Compositions**
+# **Recent Compositions**
 
  <iframe width="640" height="360"
 src="https://www.youtube.com/embed/GDxtsuIlic8">
@@ -46,6 +46,6 @@ src="https://www.youtube.com/embed/vZXviYrLDl4">
 src="https://www.youtube.com/embed/GMKSOa9qycg">
 </iframe>
 
-#**Contact**
+# **Contact**
 
-###If you have any inquiries pertaining to my work or my availability, please feel free to email me at **colby@reedsounds.com**
+### If you have any inquiries pertaining to my work or my availability, please feel free to email me at **colby@reedsounds.com**
