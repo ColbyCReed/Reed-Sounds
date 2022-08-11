@@ -12,7 +12,11 @@ src="https://www.youtube.com/embed/CIhBtdR96ds">
  
  </div>
  
+ <div align="center">
+ 
 # **Recent Sound Design**
+ 
+ </div>
 
  <iframe width="640" height="360"
 src="https://www.youtube.com/embed/JMwDuuNUwik">
@@ -32,7 +36,11 @@ src="https://www.youtube.com/embed/FHcZ81NRLgc">
 src="https://www.youtube.com/embed/XyXcPWD69G8">
 </iframe>
 
+<div align="center">
+
 # **Recent Compositions**
+ 
+ </div>
 
  <iframe width="640" height="360"
 src="https://www.youtube.com/embed/4ohsnDE7ZFI">
@@ -50,6 +58,10 @@ src="https://www.youtube.com/embed/BAfK3USnppI">
 src="https://www.youtube.com/embed/5ab9wM-h8DM">
 </iframe>
 
+<div align="center">
+
 # **Contact**
 
 ### If you have any inquiries pertaining to my work or my availability, please feel free to email me at **colby@reedsounds.com**
+
+</div>
